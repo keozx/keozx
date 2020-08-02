@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="./titlebanner.png"/>
+![](https://raw.githubusercontent.com/keozx/keozx/master/titlebanner.png)
 
 Getting serious about .NET development and creating interesting stuff like [CleanRx](https://github.com/keozx/CleanRx)
 
