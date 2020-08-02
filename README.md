@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![image](titlebanner.png)
+![alt text](titlebanner.png "logo")
 
 Getting serious about .NET development and creating interesting stuff like [CleanRx](https://github.com/keozx/CleanRx)
 
