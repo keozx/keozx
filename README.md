@@ -14,6 +14,8 @@
 
 Also, getting serious about .NET development and creating interesting stuff like [CleanRx](https://github.com/keozx/CleanRx)
 
+> *I believe the main reason behind bad software design existance is we fail to communicate good software design.*
+
 Follow me on twitter [@keozdev](https://twitter.com/keozdev)
 
 This is my blog! https://www.jorgecastro.dev/ or follow me on dev.to https://dev.to/keozdev
