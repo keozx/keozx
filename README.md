@@ -12,9 +12,9 @@
 
 ### An Immigrantpreneur 🌎
 
-> *I believe the main reason behind bad software design existance is we fail to communicate good software design.*
+>## *I believe the main reason behind bad software design existance is we fail to communicate good software design.*
 
-I'm working on: [CleanRx](https://github.com/keozx/CleanRx)
+### For that reason, I'm working on: [CleanRx](https://github.com/keozx/CleanRx)
 
 Follow me on twitter [@keozdev](https://twitter.com/keozdev)
 
