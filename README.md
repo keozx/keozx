@@ -18,7 +18,9 @@
 
 Follow me on twitter [@keozdev](https://twitter.com/keozdev)
 
-This is my blog! https://www.jorgecastro.dev/ or follow me on dev.to https://dev.to/keozdev
+This is my blog! https://www.jorgecastro.dev/ or follow me on <a href="https://dev.to/keozdev">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Jorge Castro's DEV Profile" height="30" width="30">
+</a>
 
 <!--
 **keozx/keozx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
