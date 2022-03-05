@@ -8,7 +8,7 @@
 
 ### A Pragmatic Patterns and Rx advocate 🧅
 
-### A Loop Learner 🔃
+### A Loop Learner and #ThinkAgain enthusiast 🔃
 
 ### An Immigrantpreneur 🌎
 
