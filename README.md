@@ -6,7 +6,7 @@
 
 ### A Pragmatic Programmer 🤓
 
-### A Clean Architecture and Rx advocate 🧅
+### A Pragmatic Patterns and Rx advocate 🧅
 
 ### A Loop Learner 🔃
 
