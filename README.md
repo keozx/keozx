@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-![](https://raw.githubusercontent.com/keozx/keozx/master/titlebanner.png)
-
 ## Who am I?
 
 ### A Pragmatic Programmer 🤓
 
 ### A Pragmatic Patterns and Rx advocate 🧅
 
-### A Loop Learner and #ThinkAgain enthusiast 🔃
+### A Loop Learner, Agile values and #ThinkAgain enthusiast 🔃
 
-### An Immigrantpreneur 🌎
+### I´m currently learning Kotlin and Elixir, trying to reinvent my career getting away from the lacking .NET ecosystem
 
 >## *I believe the main reason behind bad software design existance is we fail to communicate good software design.*
 
