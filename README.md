@@ -12,7 +12,7 @@
 
 >## *I believe the main reason behind bad software design existance is we fail to communicate good software design.*
 
-### For that reason 👆 I'm working on: [CleanRx](https://github.com/keozx/CleanRx) ... or I was, I found with functional programming and reactive thinking embeded into the language and ecosystem is easier to come up with these and better patterns, even better with TDD design.
+#### For that reason 👆 I'm working on: [CleanRx](https://github.com/keozx/CleanRx) ... or I was, I found with functional programming and reactive thinking embeded into the language and ecosystem is easier to come up with these and better patterns, even better with TDD design.
 
 Follow me on twitter [@keozdev](https://twitter.com/keozdev)
 
