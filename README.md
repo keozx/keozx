@@ -5,7 +5,7 @@
 - 🔭 I do Software Teaming, TDD, and ATDD to drive Continuous Delivery.
 - 🌱 I’m currently learning BDD and Kotlin DSL to ditch Cucumber implementations.
 - 👯 I’m looking to collaborate on Software Teaming initiatives.
-- 🤔 I’m looking for help with working on practical guidance to merge ATDD/BDD/TDD key practices in the context of Continuous Delivery
+- 🤔 I’m looking for help with working on practical guidance to merge ATDD/BDD/TDD key practices in the context of Continuous Delivery and MobileOps
 - 💬 Ask me about Software Engineering
 <!--
 **keozx/keozx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
